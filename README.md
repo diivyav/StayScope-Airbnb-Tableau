@@ -1,4 +1,7 @@
- 🏡 StayScope Airbnb Market Insights Dashboard
+https://public.tableau.com/views/dashboardairbnd/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+🏡 StayScope Airbnb Market Insights Dashboard
 
  📌 Project Overview
 
